@@ -1,0 +1,67 @@
+body
+{
+	background-image: url(bg.jpg);
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	font-size: 100px;
+	font-family: 'Lato', sans-serif;
+	margin-bottom: 20px;
+}
+
+#slider
+{
+	width: 800pxpx;
+	height: 100px;
+	background-color: gray;
+	margin-bottom: 20px;
+	font-family: 'Lato', sans-serif;
+	font-size: 40px;
+	color: White;
+}
+
+#text
+{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 18px;
+}
+
+#footer
+{
+	width: 800pxpx;
+	height: 70px;
+	background-color: Black;
+	color: White;
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+div.nav
+{
+	background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+	font-family: 'Lato', sans-serif;
+}
+
+div.nav a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+	font-family: 'Lato', sans-serif;
+}
+
+div.nav a:hover {
+    background-color: #777;
+} 
